@@ -75,14 +75,16 @@
 		</Metadata>
 		<Metadata name="Catalog.like_paymentTypes.Form.ListForm" id="2c3de284-a04d-466a-bc2f-be947772b918" configVersion="65ce8709646dbb3e7996581309495117718589ac"/>
 		<Metadata name="Catalog.like_paymentTypes.Form.ListForm.Form" id="2c3de284-a04d-466a-bc2f-be947772b918.0" configVersion="011f525a9450679a0d6b087d6d78c9bc4a025ecc"/>
-		<Metadata name="Catalog.like_products" id="65ad64a5-8ebe-4a28-b1bf-b8861f1859e3" configVersion="20797c40743737c196a2b3ec5198c57d211ef292">
+		<Metadata name="Catalog.like_products" id="65ad64a5-8ebe-4a28-b1bf-b8861f1859e3" configVersion="8452ec033c8be44479ce5126aab905c238df43ed">
 			<Metadata name="Catalog.like_products.Attribute.connection" id="1355344b-9be3-468b-82fa-228c3d138898"/>
+			<Metadata name="Catalog.like_products.Attribute.accountingCategory" id="17528e01-7831-4cf2-8a8c-f01eb930a659"/>
 			<Metadata name="Catalog.like_products.Attribute.revision" id="220bb44e-7ff8-4b26-99a1-53cbd526b93d"/>
 			<Metadata name="Catalog.like_products.Attribute.parentID" id="644a6a1e-ed44-4d5c-abb7-40dbd91aad7b"/>
 			<Metadata name="Catalog.like_products.Attribute.UUID" id="651c02d8-f097-4a68-aade-7a0f37632c8b"/>
 			<Metadata name="Catalog.like_products.Attribute.accountingCategoryID" id="66f8f740-ab73-486b-ae08-7e778875a3bf"/>
 			<Metadata name="Catalog.like_products.Attribute.mainUnitID" id="7decbbd0-897b-44c7-96fc-4d45476b86ec"/>
 			<Metadata name="Catalog.like_products.Attribute.type" id="c20b7cb2-474c-4b96-9afe-d4655b0482fe"/>
+			<Metadata name="Catalog.like_products.Attribute.measureUnit" id="e04cc1bf-d960-4c47-acab-241de85bc681"/>
 		</Metadata>
 		<Metadata name="Catalog.like_products.Form.ListForm" id="d6c91468-2a44-4e4b-8aeb-199831267e3a" configVersion="e68f7dd0a7c86f4d0302017099f672b0b6b3d8bc"/>
 		<Metadata name="Catalog.like_products.Form.ListForm.Form" id="d6c91468-2a44-4e4b-8aeb-199831267e3a.0" configVersion="c03ffa54fd9b59799026309fc4d4c37ae8b958af"/>
@@ -125,7 +127,7 @@
 		<Metadata name="CommonModule.like_EntitiesAtClient" id="b4f43db8-0784-4bcf-8094-d5b7a719ca1c" configVersion="dd91c445151e8fb1b904c17337fb9b5c5bfc31ac"/>
 		<Metadata name="CommonModule.like_EntitiesAtClient.Module" id="b4f43db8-0784-4bcf-8094-d5b7a719ca1c.0" configVersion="212f8eebcf5d7a286c618aa674329ff8ae3a9da1"/>
 		<Metadata name="CommonModule.like_EntitiesAtServer" id="8687003d-6fe6-40e2-84f4-cfc9c971f255" configVersion="0e942ce1baee20d2d652635db30cbda937d37e06"/>
-		<Metadata name="CommonModule.like_EntitiesAtServer.Module" id="8687003d-6fe6-40e2-84f4-cfc9c971f255.0" configVersion="3f471f36f40d1c63ed85970c8c6c22d0ba4ce3b9"/>
+		<Metadata name="CommonModule.like_EntitiesAtServer.Module" id="8687003d-6fe6-40e2-84f4-cfc9c971f255.0" configVersion="0dea2f6696887452c3f9c18e210317cfc8f466e4"/>
 		<Metadata name="CommonModule.like_GlobalAtClient" id="cb55eac4-5b5e-4ed3-a0e0-ef3562dce7bf" configVersion="2921767f6e02f46091a45c68f2fb0cc1a68d8f4d"/>
 		<Metadata name="CommonModule.like_GlobalAtClient.Module" id="cb55eac4-5b5e-4ed3-a0e0-ef3562dce7bf.0" configVersion="34a8ef6c51737e357e8adf60c48cae0bc25807ae"/>
 		<Metadata name="CommonModule.like_InvoicesAtServer" id="fe83cdb4-c1de-4754-927c-9651d8a38c0a" configVersion="13375592f479f0fcbd8ec47674af47febf3a0d67"/>
@@ -144,7 +146,7 @@
 		<Metadata name="CommonPicture.like_icon.Picture" id="457c2de2-72c5-4ed2-aeda-bb9a5bd2b44c.0" configVersion="509cc49237ad0db5c8b6b9854d4c6d71aaa311ff"/>
 		<Metadata name="CommonPicture.like_invoicesTypes" id="aa225d28-9867-46a1-9cf7-304298572d34" configVersion="4a097c9a77242af58f62f1c69b04e2ccd7db3911"/>
 		<Metadata name="CommonPicture.like_invoicesTypes.Picture" id="aa225d28-9867-46a1-9cf7-304298572d34.0" configVersion="a924b1a20822225da376d7d6c0593d9b972480b7"/>
-		<Metadata name="Configuration.Лайка" id="9808519e-9281-4130-a83f-8ee5695fd6e1" configVersion="583d13d7b2650374de6c0f372e4e9f8904d6453c"/>
+		<Metadata name="Configuration.Лайка" id="9808519e-9281-4130-a83f-8ee5695fd6e1" configVersion="0a3a5c7a059fd647d3ecb4497872139d1a1f8a00"/>
 		<Metadata name="Configuration.Лайка.ManagedApplicationModule" id="050e985e-238e-43f2-9141-ae4b75827155.6" configVersion="8be5f0190100d2600287d4cc5fd3aad774d9179c"/>
 		<Metadata name="Configuration.Лайка.SessionModule" id="050e985e-238e-43f2-9141-ae4b75827155.7" configVersion="bb8ff0a799d6de3d5cbf48d97b7a8b5a86ff03fc"/>
 		<Metadata name="DataProcessor.like_clearData" id="467cfc37-d5c0-482f-92a7-3f83aff140a7" configVersion="747f77e76e924f74c21bdb663346fd76e678afe8"/>
